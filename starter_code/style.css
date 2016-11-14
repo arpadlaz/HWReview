@@ -1,0 +1,72 @@
+body {
+	background-size: 1200x700;
+}
+#logo {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+	color: white;
+	height: 100px;
+	width: 50%;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+#secondarylevelheading {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-stretch: ultra-expanded;
+	color: white;
+	height: 30vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#calltoactionbutton {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	font-margin: 300px;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-flex;
+	height: 10vh;
+	width: 40%;
+	margin: 0 auto;
+	margin-left: 30%;
+	margin-right: 30%;
+	background-color: #f9e42e;
+}
+#tertiarylevelheading {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 100px;
+	font-size: 20px;
+	font-color: #033048;
+	background-color: #f0efef;
+}
+#mainparagraphtext {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 50px;
+	font-size: 13px;
+	font-color: #606161;
+	background-color: #f0efef;
+}
+ul {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 30px;
+	font-size: 13px;
+	font-color: #606161;
+	background-color: #f0efef;
+}
+#quote {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 100px;
+	margin-left: 1000px;
+	font-style: italic;
+	font-color: white;
+}
+#citation {
+	font-family: 'Open Sans' Helvetica, Arial, sans-serif;
+	font-weight: 300px;
+	font-size: 18px;
+	font-color: white;
+}
